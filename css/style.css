@@ -1,0 +1,20 @@
+body {
+    background-color:rgb(243, 226, 237)
+   }
+   hr {
+      border-color:green;
+      border-width: 5px;
+      border-style: none;
+      border-top-style:dotted;
+   }
+   img{
+    height: 180px;
+   }
+   h1{
+    color:brown;
+    background-color: rgb(221, 199, 241);
+   }
+   h3{
+    color: brown;
+    background-color: rgb(210, 187, 231);
+   }
